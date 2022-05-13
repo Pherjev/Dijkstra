@@ -3,8 +3,7 @@ Implementación del Algoritmo de Dijkstra en librería de grafos
 
 Uso:
 
-Primero generamos un grafo, por ejemplo 
-BFS a un grafo generado (por ejemplo, con el modelo de malla), utilizamos el siguiente código.
+Primero generamos un grafo, por ejemplo, con el modelo de malla, utilizamos el siguiente código.
 
 ```python
 from erdosRenyi import randomErdosRenyi
